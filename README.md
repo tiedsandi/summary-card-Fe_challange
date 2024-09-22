@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/demo.png)
+![screenshot](./public/demo.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/tiedsandi/summary-card-Fe_challange)
+- Live Site URL: [Add live site URL here](https://sandi-fe-summary-card.netlify.app)
 
 ## Built with
 
@@ -37,6 +37,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Fachran Sandi](https://fachran-sandi.netlify.app/)
+- Frontend Mentor - [@tiedsandi](https://www.frontendmentor.io/profile/tiedsandi)
+- LinkedIn - [@fachransandi](https://www.linkedin.com/in/fachransandi/)
+- Github - [@tiedsandi](https://github.com/tiedsandi)
